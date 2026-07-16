@@ -1,3 +1,4 @@
+
 # ⚡ ZEVIFY
 
 ZEVIFY is a modern and responsive web application built to deliver a smooth and interactive user experience with clean UI design and fast performance. The project focuses on simplicity, scalability, and modern frontend development practices.
